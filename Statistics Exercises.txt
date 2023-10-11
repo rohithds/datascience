@@ -1,0 +1,14 @@
+80% of people who purchase pet insurance are women.  										
+If 9 pet insurance owners are randomly selected, find the probability that exactly 6 are women.										
+										
+In a large restaurant, an average of 3 out of every 5 customers ask for water with their meal. A random sample of 10 customers is selected.  										
+Find the probability that exactly 6 ask for water with their meal, and find the probability that less than 9 ask for water with their meal.										
+										
+Given the data set: 4, 10, 7, 7, 6, 9, 3, 8, 9. Find the mode, the median, the mean, the sample standard deviation. 										
+If we replace the data value 6 in the data set above by 24, will the standard deviation increase, decrease or stay the same?										
+										
+Find x and y so that the ordered data set has a mean of 42 and a median of 35. 										
+17 , 22 , 26 , 29 , 34 , x , 42 , 67 , 70 , y .										
+										
+Given the data set: 62 , 65 , 68 , 70 , 72 , 74 , 76 , 78 , 80 , 82 , 96 , 101										
+Find: the median, the first quartile, the third quartile, the interquartile range (IQR).										
